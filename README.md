@@ -7,4 +7,4 @@ To compile the code use the SDCC compiler using the following commands.
 
 Upload the **main.hex** in the microcontroller. 
 
-There's also a file called **blink.hex** which contains an example of blinkling LED in the port **P3_0**.
+There's also a file called **blink.hex** which contains an example of a blinkling LED in the port **P3_0**.
